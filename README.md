@@ -9,4 +9,7 @@
 3. Commit : Save your files in Git.
 4. Push : When You have made changes locally on your computer and you are ready to put them in git. You tell the git to track the changes, through **Add** command and then save your files through commit command.
 5. Pull : When there are changes to your code on Github and you want to bring those to your local machine, then you use pull command. You pull down changes from the remote repository.
-   6.Voila I did it.
+6. Voila I did it.
+7. New Changes , Will it still Commit ?
+8. Second Change to know if '+' sign really does stage changes . Let's see.
+9. Just Another One.
