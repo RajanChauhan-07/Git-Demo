@@ -11,4 +11,6 @@
 5. Pull : When there are changes to your code on Github and you want to bring those to your local machine, then you use pull command. You pull down changes from the remote repository.
 6. Voila I did it.
 7. I add the New Line 7
-8. Okat , this time I'm adding a new branch with the name of New-Points and then will Save it and Create a Pull Request For it.
+8. Okay , this time I'm adding a new branch with the name of New-Points and then will Save it and Create a Pull Request For it.
+9. Rectiftying the spelling mistake in the earlier point.
+10. Adding 2 New Lines of Texts and Creating a new pull request.
