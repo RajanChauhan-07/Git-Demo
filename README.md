@@ -14,3 +14,4 @@
 8. Okay , this time I'm adding a new branch with the name of New-Points and then will Save it and Create a Pull Request For it.
 9. Rectifying the Spelling mistake in the previous mistake.
    Let's do that again.
+10. That did'nt work properly.
